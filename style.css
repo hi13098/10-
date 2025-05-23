@@ -21,16 +21,6 @@ h5 {
     text-align: center;
     margin-top: 1px;
 }
-a:hover {
-    color: rgb(234, 207, 0);
-}
-a:visited {
-    color: black;
-}
-a {
-    padding: 20px;
-    margin: 20px;
-}
 footer img {
     border: 5px black solid;
     margin: 20px;
